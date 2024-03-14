@@ -3,18 +3,18 @@ Sample Software For <a href="https://bitvectors.blogspot.com"><b>Bit Vectors</b>
 
 The solution list:
 
-solns_that_don_t_measure_stack_size \ solns_with_two_CPP_files \ arrays
+1. solns_that_don_t_measure_stack_size \ solns_with_two_CPP_files \ arrays
 
-solns_that_don_t_measure_stack_size \ solns_with_two_CPP_files \ vectors
+2. solns_that_don_t_measure_stack_size \ solns_with_two_CPP_files \ vectors
 
-solns_that_don_t_measure_stack_size \ solns_with_three_CPP_files \ arrays
+3. solns_that_don_t_measure_stack_size \ solns_with_three_CPP_files \ arrays
 
-solns_that_don_t_measure_stack_size \ solns_with_three_CPP_files \ vectors
+4. solns_that_don_t_measure_stack_size \ solns_with_three_CPP_files \ vectors
 
-solns_that_measure_stack_size \ solns_with_two_CPP_files \ arrays
+5. solns_that_measure_stack_size \ solns_with_two_CPP_files \ arrays
 
-solns_that_measure_stack_size \ solns_with_two_CPP_files \ vectors
+6. solns_that_measure_stack_size \ solns_with_two_CPP_files \ vectors
 
-solns_that_measure_stack_size \ solns_with_three_CPP_files \ arrays
+7. solns_that_measure_stack_size \ solns_with_three_CPP_files \ arrays
 
-solns_that_measure_stack_size \ solns_with_three_CPP_files \ vectors
+8. solns_that_measure_stack_size \ solns_with_three_CPP_files \ vectors
